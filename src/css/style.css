@@ -1,0 +1,110 @@
+@import 'reset.css';
+
+.hidden {
+  display: none;
+  visibility: hidden;
+}
+
+.submit {
+  cursor: pointer;
+  position: absolute;
+  margin-top: 32rem;
+  margin-left: 12.5rem;
+  height: 2.5rem;
+  font-size: 2rem;
+  font-family: Arial;
+  width: 10rem;
+  border-top: .1rem solid #bd5b12;
+  border-left: medium none;
+  border-right: medium none;
+  border-bottom: .3rem solid #bd5b12;
+  background-color: #f3751d;
+  color: white;
+}
+
+.submit:hover {
+  background-color: #f3a269;
+}
+
+.text-button {
+  margin-top: -.25rem;
+}
+
+.text-field {
+  position: absolute;
+  margin-top: 28.5rem;
+  margin-left: 6rem;
+  border: medium none;
+  text-align: center;
+  font-size: 2rem;
+  font-family: Arial;
+  font-weight: bold;
+  background: none;
+}
+
+.text-field:focus {
+  outline: none;
+}
+
+.title {
+  font-size: 5rem;
+  text-align: center;
+  font-weight: bold;
+  padding: 2rem;
+}
+
+.statsDiv {
+  display: flex;
+}
+
+.timeGraph {
+  position: fixed;
+  width: 50vw;
+  height: 50vw;
+}
+
+.scoreGraph {
+  width: 70vw;
+}
+
+.aThankYou {
+  font-size: 2rem;
+  position: absolute;
+  margin-top: 30rem;
+  margin-left: 7rem;
+  border: medium none;
+  text-align: center;
+  font-family: Arial;
+  font-weight: bold;
+  background: none;
+  width: 20rem;
+}
+
+.powerUps {
+  width: 20vw;
+  display: flex;
+  flex-direction: row;
+  margin-top: 25rem;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.betweenDiv {
+  height: 8rem;
+  width: 40rem;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  align-content: right;
+  justify-content: space-between;
+}
+
+.totals {
+  width: 100vw;
+  display: flex;
+  font-size: 2rem;
+  text-align: center;
+  justify-content: space-around;
+  margin: 2rem 0;
+}

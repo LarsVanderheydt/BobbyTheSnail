@@ -1,0 +1,23 @@
+{"frames":[
+  {"filename":"cloud1",
+    "frame":{"x":0,"y":0,"w":150,"h":87},
+    "rotated":false,"trimmed":false,
+    "spriteSourceSize":{"x":0,"y":0,"w":150,"h":87},
+    "sourceSize":{"w":150,"h":87}},
+  {"filename":"cloud2",
+    "frame":{"x":0,"y":88,"w":150,"h":87},
+    "rotated":false,"trimmed":false,
+    "spriteSourceSize":{"x":0,"y":0,"w":150,"h":87},
+    "sourceSize":{"w":150,"h":87}},
+  {"filename":"cloud3",
+    "frame":{"x":0,"y":176,"w":150,"h":87},
+    "rotated":false,"trimmed":false,
+    "spriteSourceSize":{"x":0,"y":0,"w":150,"h":87},
+    "sourceSize":{"w":150,"h":87}},
+  {"filename":"cloud4",
+    "frame":{"x":151,"y":0,"w":150,"h":87},
+    "rotated":false,"trimmed":false,
+    "spriteSourceSize":{"x":0,"y":0,"w":150,"h":87},
+    "sourceSize":{"w":150,"h":87}}],"meta":
+    {"app":"https://www.leshylabs.com/apps/sstool/",
+      "version":"Leshy SpriteSheet Tool v0.8.4","image":"spritesheet.png","size":{"w":301,"h":263},"scale":1}}

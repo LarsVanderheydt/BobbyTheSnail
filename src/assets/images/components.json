@@ -1,0 +1,131 @@
+﻿{"frames": {
+
+"blue-down":
+{
+	"frame": {"x":0,"y":0,"w":100,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":25},
+	"sourceSize": {"w":100,"h":25}
+},
+"blue-normal":
+{
+	"frame": {"x":100,"y":0,"w":100,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":25},
+	"sourceSize": {"w":100,"h":25}
+},
+"blue-over":
+{
+	"frame": {"x":0,"y":25,"w":100,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":25},
+	"sourceSize": {"w":100,"h":25}
+},
+"green-down":
+{
+	"frame": {"x":100,"y":25,"w":100,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":25},
+	"sourceSize": {"w":100,"h":25}
+},
+"green-normal":
+{
+	"frame": {"x":0,"y":50,"w":100,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":25},
+	"sourceSize": {"w":100,"h":25}
+},
+"green-over":
+{
+	"frame": {"x":100,"y":50,"w":100,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":25},
+	"sourceSize": {"w":100,"h":25}
+},
+"red-down":
+{
+	"frame": {"x":0,"y":75,"w":100,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":25},
+	"sourceSize": {"w":100,"h":25}
+},
+"red-normal":
+{
+	"frame": {"x":100,"y":75,"w":100,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":25},
+	"sourceSize": {"w":100,"h":25}
+},
+"red-over":
+{
+	"frame": {"x":0,"y":100,"w":100,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":25},
+	"sourceSize": {"w":100,"h":25}
+},
+"white-down":
+{
+	"frame": {"x":100,"y":100,"w":100,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":25},
+	"sourceSize": {"w":100,"h":25}
+},
+"white-normal":
+{
+	"frame": {"x":0,"y":125,"w":100,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":25},
+	"sourceSize": {"w":100,"h":25}
+},
+"white-over":
+{
+	"frame": {"x":100,"y":125,"w":100,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":25},
+	"sourceSize": {"w":100,"h":25}
+},
+"yellow-down":
+{
+	"frame": {"x":0,"y":150,"w":100,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":25},
+	"sourceSize": {"w":100,"h":25}
+},
+"yellow-normal":
+{
+	"frame": {"x":100,"y":150,"w":100,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":25},
+	"sourceSize": {"w":100,"h":25}
+},
+"yellow-over":
+{
+	"frame": {"x":0,"y":175,"w":100,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":25},
+	"sourceSize": {"w":100,"h":25}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.2.1.95",
+	"image": "components.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

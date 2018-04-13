@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Game</title>
+  
+</head>
+<body>
+    <h1 class="aThankYou"></h1>
+    <form method="post" action="index.php" id="itemAddForm">
+      <div class="inputField">
+    
+        <input type="hidden" name="usedShields" value="" id="usedShields">
+        <input type="hidden" name="usedSlimeRefills" value="" id="usedSlimeRefills">
+        <input type="hidden" name="extraLifes" value="" id="extraLifes">
+        <input type="hidden" name="hitsTaken" value="" id="hitsTaken">
+        <input type="hidden" name="usedRockets" value="" id="usedRockets">
+    
+        <input type="text" name="name" placeholder="Your Name" class="text-field">
+        <input type="hidden" name="timePlayed" value="" class="timePlayed">
+        <input type="hidden" name="score" value="" class="scoreInput">
+    
+        <input type="hidden" name="action" value="submit">
+    
+        <button type="submit" class="submit"><p class="text-button">Enter</p></button>
+      </div>
+      <div id="content"></div>
+    </form>
+    
+  <script src="js/vendors/phaser.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>
